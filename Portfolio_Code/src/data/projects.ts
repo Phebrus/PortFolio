@@ -1,0 +1,58 @@
+import { ProjectType } from '../components/ui/ProjectCard';
+
+export const projects: ProjectType[] = [
+  {
+    id: 1,
+    title: "E-Commerce Dashboard",
+    description: "A comprehensive dashboard for e-commerce store owners with sales analytics, inventory management, and customer insights.",
+    image: "https://images.pexels.com/photos/5833890/pexels-photo-5833890.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+    tags: ["React", "TypeScript", "Tailwind CSS", "Chart.js"],
+    demoUrl: "https://example.com/ecommerce-demo",
+    githubUrl: "https://github.com/sabasherazadishvili/ecommerce-dashboard",
+  },
+  {
+    id: 2,
+    title: "Task Management App",
+    description: "A productivity app for managing tasks with features like kanban boards, deadlines, and team collaboration.",
+    image: "https://images.pexels.com/photos/6804618/pexels-photo-6804618.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+    tags: ["React", "Redux", "Firebase", "Material UI"],
+    demoUrl: "https://example.com/taskapp-demo",
+    githubUrl: "https://github.com/sabasherazadishvili/task-management",
+  },
+  {
+    id: 3,
+    title: "Weather Forecast App",
+    description: "Real-time weather forecast application with 7-day predictions, interactive maps, and location-based services.",
+    image: "https://images.pexels.com/photos/1118873/pexels-photo-1118873.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+    tags: ["React", "Weather API", "Geolocation", "CSS Modules"],
+    demoUrl: "https://example.com/weather-demo",
+    githubUrl: "https://github.com/sabasherazadishvili/weather-app",
+  },
+  {
+    id: 4,
+    title: "Recipe Finder",
+    description: "A culinary app that helps users discover recipes based on available ingredients, dietary preferences, and cooking time.",
+    image: "https://images.pexels.com/photos/1640774/pexels-photo-1640774.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+    tags: ["React", "Node.js", "MongoDB", "Express"],
+    demoUrl: "https://example.com/recipe-demo",
+    githubUrl: "https://github.com/sabasherazadishvili/recipe-finder",
+  },
+  {
+    id: 5,
+    title: "Travel Blog",
+    description: "A responsive travel blog with photo galleries, interactive maps, and destination guides for explorers and adventurers.",
+    image: "https://images.pexels.com/photos/1271619/pexels-photo-1271619.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+    tags: ["Next.js", "Contentful CMS", "Mapbox", "Styled Components"],
+    demoUrl: "https://example.com/travel-demo",
+    githubUrl: "https://github.com/sabasherazadishvili/travel-blog",
+  },
+  {
+    id: 6,
+    title: "Cryptocurrency Dashboard",
+    description: "Track and analyze cryptocurrency performance with real-time data, price alerts, and portfolio management tools.",
+    image: "https://images.pexels.com/photos/6781351/pexels-photo-6781351.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+    tags: ["React", "WebSocket", "D3.js", "Cryptocurrency API"],
+    demoUrl: "https://example.com/crypto-demo",
+    githubUrl: "https://github.com/sabasherazadishvili/crypto-dashboard",
+  },
+];
