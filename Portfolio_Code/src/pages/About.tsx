@@ -164,7 +164,7 @@ const About: React.FC = () => {
               <div className="relative pl-8">
                 <span className="absolute left-0 top-1 w-4 h-4 rounded-full bg-primary"></span>
                 <div className="p-6 bg-white dark:bg-gray-800 rounded-lg shadow-sm">
-                  <span className="text-sm font-medium text-primary">2022</span>
+                  <span className="text-sm font-medium text-primary">2022 - 2023</span>
                   <h4 className="text-lg font-bold mt-1 mb-2 text-gray-800 dark:text-white">Junior Frontend Developer</h4>
                   <h5 className="text-gray-600 dark:text-gray-400 mb-3">Local Start-up</h5>
                   <p className="text-gray-700 dark:text-gray-300">
@@ -188,7 +188,7 @@ const About: React.FC = () => {
               <div className="relative pl-8">
                 <span className="absolute left-0 top-1 w-4 h-4 rounded-full bg-primary"></span>
                 <div className="p-6 bg-white dark:bg-gray-800 rounded-lg shadow-sm">
-                  <span className="text-sm font-medium text-primary">2019 - 2020</span>
+                  <span className="text-sm font-medium text-primary">2023 - 2024</span>
                   <h4 className="text-lg font-bold mt-1 mb-2 text-gray-800 dark:text-white">Junior Web Developer</h4>
                   <h5 className="text-gray-600 dark:text-gray-400 mb-3">Digital Creations Agency</h5>
                   <p className="text-gray-700 dark:text-gray-300">

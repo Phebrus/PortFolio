@@ -51,7 +51,7 @@ const Footer: React.FC = () => {
               <NavLink to="/contact" className="text-gray-600 dark:text-gray-400 hover:text-primary dark:hover:text-primary transition-colors">
                 Contact
               </NavLink>
-              <a href="/resume.pdf" target="_blank" rel="noopener noreferrer" className="text-gray-600 dark:text-gray-400 hover:text-primary dark:hover:text-primary transition-colors">
+              <a href="/Saba_Sherazadishvili_Resume.pdf" target="_blank" rel="noopener noreferrer" className="text-gray-600 dark:text-gray-400 hover:text-primary dark:hover:text-primary transition-colors">
                 Resume
               </a>
             </nav>
