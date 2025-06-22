@@ -43,7 +43,8 @@ const Home: React.FC = () => {
                 Hi, I'm Saba Sherazadishvili
               </h1>
               <p className="text-xl mb-8 text-gray-700 dark:text-gray-300">
-                I craft responsive websites where technology meets creativity. Specializing in building exceptional digital experiences with React and modern web technologies.
+              <a href="/Contact">I build React apps that are fast, clean, and focused on user experience. I solve real problems for real users.
+               Interested in working together? Let’s talk.</a> 
               </p>
               <div className="flex flex-wrap gap-4">
               <Button 
@@ -57,7 +58,7 @@ const Home: React.FC = () => {
 <Button 
   variant="outline"
   as="a"
-  href="/Saba_Sherazadishvili_Resume.pdf"
+  href="/Saba-Sherazadishvili-Resume.pdf"
   download
   icon={<Download size={20} />}
 >

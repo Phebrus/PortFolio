@@ -28,7 +28,7 @@ const About: React.FC = () => {
             <div className="bg-gray-100 dark:bg-gray-800 rounded-2xl overflow-hidden h-full">
               <img 
                 src="https://images.pexels.com/photos/4064826/pexels-photo-4064826.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2" 
-                alt="John Doe - Frontend Developer" 
+                alt="Saba Sherazadishvili - Frontend Developer" 
                 className="w-full h-full object-cover"
               />
             </div>
@@ -53,17 +53,17 @@ const About: React.FC = () => {
             
             <div className="flex flex-wrap gap-4 mb-8">
               <div className="flex flex-col items-center p-4 bg-white dark:bg-gray-800 rounded-lg shadow-sm">
-                <span className="text-2xl font-bold text-primary">5+</span>
+                <span className="text-2xl font-bold text-primary">3+</span>
                 <span className="text-gray-600 dark:text-gray-400 text-sm">Years of Experience</span>
               </div>
               
               <div className="flex flex-col items-center p-4 bg-white dark:bg-gray-800 rounded-lg shadow-sm">
-                <span className="text-2xl font-bold text-primary">40+</span>
+                <span className="text-2xl font-bold text-primary">25++</span>
                 <span className="text-gray-600 dark:text-gray-400 text-sm">Projects Completed</span>
               </div>
               
               <div className="flex flex-col items-center p-4 bg-white dark:bg-gray-800 rounded-lg shadow-sm">
-                <span className="text-2xl font-bold text-primary">30+</span>
+                <span className="text-2xl font-bold text-primary">15+</span>
                 <span className="text-gray-600 dark:text-gray-400 text-sm">Happy Clients</span>
               </div>
             </div>
